@@ -1,0 +1,6 @@
+{
+  "name": "Pastille Humain",
+  "description": "Prototype V9 avec protection de propriété intellectuelle : période d'évaluation 7 jours, détection par ancres d'interface (TikTok & Reels), zéro clignotement vidéo, réponse <250ms et déverrouillage cryptographique SHA-256.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
